@@ -5,7 +5,7 @@ import cv2
 
 
 def code():
-    password = "danish12"
+    password = "danish"
     connect = input("Whats your Password\n")
 
     while connect != password:
